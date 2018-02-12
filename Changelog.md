@@ -1,5 +1,23 @@
 # Changelog
 
+## 1.4.1
+
+- Lock Typescript to <2.7.0 [#132](https://github.com/avantcredit/gql2ts/pull/132)
+
+## 1.4.0
+
+- Allow custom `TypeMap` in `@gql2ts/from-schema`, similar to `@gql2ts/from-query` [#109](https://github.com/avantcredit/gql2ts/pull/109)
+
+## 1.3.0
+
+- Allow GraphQL Schema Language input in CLI
+
+## 1.2.2
+
+- Fix Default Export / CommonJS for `-e` flag on CLI [#99](https://github.com/avantcredit/gql2ts/pull/99)
+- Add description JSDoc to individual fields [#96](https://github.com/avantcredit/gql2ts/pull/96)
+- Update Some DevDependencies [#94](https://github.com/avantcredit/gql2ts/pull/94)
+
 ## 1.2.1
 
 - Pin version of `graphql` to `^0.10.5` in all packages [#89](https://github.com/avantcredit/gql2ts/pull/89)
